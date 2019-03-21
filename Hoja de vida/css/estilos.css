@@ -1,0 +1,146 @@
+body {
+      font-family: Georgia, "Times New Roman",
+      Times, serif;
+      color: #fff;
+      background-color: #fff;
+      }
+
+  ul.navbar {
+      position: absolute;
+      top: 5em;
+      left: 1em;
+      width: 9em;
+    }
+h1{
+    font-family: Helvetica, Geneva, Arial;
+    text-align: center;
+    margin-top: -40px;
+    color:#000;
+  }
+  h2, h3{
+    font-family: Helvetica, Geneva, Arial;
+    text-align: center;
+    color:#000;
+  }
+  ul {
+    margin-top: 35px;
+  }
+
+ul.navbar li {
+      background: #000757;
+      margin: 0.9em 0;
+      padding: 0.6em;
+      color: #000;
+      border-right: 1em solid black
+    }
+ul li a{
+      color: #fff;
+      text-decoration: none;
+      font-size: 20px;
+    }
+table {
+        padding: 2em;
+        color:#000;
+        text-align: center;
+      }
+table caption {
+        font-size: 20px;
+        font-weight: bold;
+      }
+p {
+  text-align: justify;
+}
+#perfil {
+  width: 70%;
+}
+#idiomas li{
+  color: #000;
+  font-size: 20px;
+  font-family: Helvetica, Geneva, Arial;
+  padding:5px;
+}
+footer {
+  background-color: #000757;
+  height: 190px;
+  padding: 5px;
+  position: static;
+
+}
+footer ul li{
+  color: #000;
+  font-family: Helvetica, Geneva, Arial;
+}
+
+#correo li {
+  color: #fff;
+    font-family: Helvetica, Geneva, Arial;
+}
+
+#telefono {
+  color: #fff;
+  margin-left: 30%;
+  margin-top: -85px;
+}
+#telefono  li {
+  color: #fff;
+    font-family: Helvetica, Geneva, Arial;
+}
+
+#redes  li {
+  color: #fff;
+    font-family: Helvetica, Geneva, Arial;
+}
+
+#redes {
+  color: #fff;
+  margin-left: 50%;
+  margin-top: -95px;
+}
+
+#direccion {
+  margin-left: 70%;
+  margin-top: -95px;
+}
+
+#direccion li{
+  color: #fff;
+    font-family: Helvetica, Geneva, Arial;
+}
+
+.educacion {
+  padding: 2em;
+  color:#000;
+  text-align: center;
+  width: 60%
+}
+.form {
+  width: 40%;
+  font-family: Helvetica, Geneva, Arial;
+  color: #000;
+  font-weight: bold;
+}
+.form label{
+  color: #000;
+}
+.form select {
+  margin-left: -320px;
+}
+#Institucion {
+  margin-left: -200px;
+}
+.btn {
+  background-color: green;
+  border-radius: 5px;
+  color: #fff;
+  border-width: 2px;
+  border-color: #000;
+  width: 60px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: -100px;
+}
+.foto {
+  border-radius: 5px;
+  border: #000 1px solid;
+  cursor: pointer;
+}
